@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/732180673.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.13563)
+
 # Habitat suitability model for Sorghastrum nutans, a grass native to North America
 <img src="https://github.com/misterskye/FinalProject_Grassland-Study/blob/main/grasslands.jpg" width='700'>
 Photo by Cory Enger/U.S. Forest Service (https://flic.kr/p/2n6EzaJ) 
